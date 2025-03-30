@@ -39,7 +39,7 @@ function HomeUi() {
             display:'block',
             mx:'auto',
             width:'200px',
-            backgroundColor:'#FE00CB',
+            backgroundColor:'#049156',
             textAlign:'center'
         }}>
            Go to Login Page
